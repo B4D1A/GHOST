@@ -32,7 +32,7 @@
 
 # Installation
 ```
-git clone https://github.com/FazalMahmood/ghost.git
+git clone https://github.com/B4D1A/GHOST.git
 ```
 ```
 cd ghost
